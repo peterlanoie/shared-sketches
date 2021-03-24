@@ -2,11 +2,13 @@
 
 This is a woodworking project I did for a friend's wedding.
 
-See this video for a look: https://www.youtube.com/watch?v=Lg_fBXHgJao
+See this video for a quick 360 look: https://www.youtube.com/watch?v=Lg_fBXHgJao
 
 The final project differed a bit from the original sketch as I discovered some of the ideas I had didn't work and various tweaks needed to be made to satisfy the needs of the basic mechanics of the handle action.
 
 The sketch is provided as-is with the understanding that some things changed and it's not representative of the final outcome. See the 'variations' section below for details.
+
+You can [download the SketchUp file](beer-caddy.skp) to see the whole thing including some of the original ideas that were scrapped and to get an idea of the simple mechanics involved. There are also a bunch of photos in this directory of the project along the way.
 
 # Materials
 The box is constructed out of red oak and walnut wood. There are a few metal parts for the springs and the brass screws.
