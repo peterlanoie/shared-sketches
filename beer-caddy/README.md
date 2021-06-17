@@ -25,7 +25,7 @@ I had wanted to make this entirely out of wood, including the springs. However, 
 As seen in the sketch, I used a double "leaf" spring design to raise the handle. This generally worked, but the wood eventually remembered the position under tension a bit and the handle sat low which ruined the closed appearance.
 
 ### Bottle bay springs
-The multi-segment leaf springs I tried for pulling the bottle bays back in simply didn't have the necessary deflection over their length. I abandoned that approach and used some repurposed steel from the spine of a replaced windshield wiper blade instead. This proved satisfactory as a spring to augment the natural return of the bay under its own weight, and certain with the added weight of 3 bottles.
+The multi-segment leaf springs I tried for pulling the bottle bays back in simply didn't have the necessary deflection over their length. I abandoned that approach and used some repurposed steel from the spine of a replaced windshield wiper blade instead. This proved satisfactory as a spring to augment the natural return of the bay under its own weight, and certainly with the added weight of 3 bottles.
 
 ## Fastening the top and bottom
 Originally planning to glue the top dado and bottom rabbet joints once finally assembled, I decided instead to use brass screws so that the box was serviceable should it need a tuneup. The clocked screw heads added a nice accent to the whole piece.
